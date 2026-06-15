@@ -1,2 +1,3 @@
 .connector/
+.DS_Store
 .gitignore
